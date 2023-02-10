@@ -1,1 +1,1 @@
-This notes are created from lectures of Tech with tim.
+This notes are created while learning basics of go lang
